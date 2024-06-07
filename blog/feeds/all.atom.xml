@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T18:10:00+08:00</updated><entry><title>2024 Spring 課程w16</title><link href="./41023124_2024-Spring-w16-blog-tutorial.html" rel="alternate"></link><published>2024-06-07T18:10:00+08:00</published><updated>2024-06-07T10:13:56+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-06-07:./41023124_2024-Spring-w16-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w16&lt;/h1&gt;
-&lt;p&gt;本週為協同產品設計與實習第十六週&lt;br&gt;本周上課為填本分表單 &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSduO5lTJtheYfoQEzIJPj8Ub6T7K2VdkTwIarz5_T7Ue1ECCg/viewform?pli=1"&gt;https://docs.google.com/forms/d/e/1FAIpQLSduO5lTJtheYfoQEzIJPj8Ub6T7K2VdkTwIarz5_T7Ue1ECCg/viewform?pli=1&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;與繼續完成期末機器人設計、程式編寫與更改、模擬，場景球框得分錯誤更改 ; 檔案將上傳至github倉儲downloads下&lt;/p&gt;
-&lt;p&gt;更改player球員程式&lt;/p&gt;
-&lt;p&gt;&lt;img alt="playerpyrewrite" height="270" src="./downloads/0607/playerpyrewrite.png" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;更改進球後得分加錯記分板(將球門名稱更改)，與投進籃框後得5分(-36改成-179.9999)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="wrongdoor" height="270" src="./downloads/0607/wrongdoor.png" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;footballcourt 場地&lt;/p&gt;
-&lt;p&gt;&lt;img alt="footballcourt" height="270" src="./downloads/0607/footballcourt.png" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;player 球員&lt;/p&gt;
-&lt;p&gt;&lt;img alt="player" height="270" src="./downloads/0607/player.png" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;site場景&lt;/p&gt;
-&lt;p&gt;&lt;img alt="site" height="270" src="./downloads/0607/site.png" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;操作影片&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/qX-zUc79-L8?si=cZZueZx-9MpKwHLj" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w16"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w15</title><link href="./41023124_2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T17:22:00+08:00</published><updated>2024-05-31T10:08:50+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-31:./41023124_2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T17:22:00+08:00</updated><entry><title>2024 Spring 課程w15</title><link href="./41023124_2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T17:22:00+08:00</published><updated>2024-05-31T10:08:50+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-31:./41023124_2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
